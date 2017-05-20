@@ -1,2 +1,2 @@
-# personal-website
-DALI app- my personal website 
+#website
+a potpourri or stuff about me 
