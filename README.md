@@ -1,2 +1,2 @@
 #website
-a potpourri or stuff about me 
+a potpourri of stuff about me 
