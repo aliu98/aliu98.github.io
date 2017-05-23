@@ -1,2 +1,2 @@
 #website
-a potpourri of stuff about me 
+practice website; see amberliu.me for updated
